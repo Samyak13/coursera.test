@@ -7,11 +7,11 @@ color: 	#008000;
 font-family: lucida;
 text-align: center;
 }
-.row{
+/*.row{
 	width: 100%;
 	margin: 0;
 	padding: 15px;
-}
+}*/
 
 h1{
 	font-size: 175%;
@@ -64,15 +64,13 @@ h2{
 	position: relative;
 	border: 1px solid black;
 	padding: 20px;
-	padding-right: 10px;
-	padding-top: 30px;
+	padding-top: 35px;
 	background-color: #20B2AA;
-	margin-left: auto;
+	margin-left: 15px;
 	margin-right: 15px;
-	margin-top: 20px;
+	margin-bottom: 15px;
 	overflow: hidden;
-	min-height: 230px;
-	min-width: 350px;
+	height: 230px;
 	box-sizing: border-box;
 }
 /****** Display Virsion***********/
