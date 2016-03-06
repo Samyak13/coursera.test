@@ -43,6 +43,7 @@ h1{
  	background-color: #FFE4C4;
  	margin: 0;
 	padding: 0;
+	cursor: pointer;
  }
  #nav-list li{
  	font-weight: bold;
