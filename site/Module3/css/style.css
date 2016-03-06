@@ -22,10 +22,10 @@ h1{
     font-size: 30px;
  }
  h2{
- 	text-align: center;
  	color: #B22222;
  	height: 50px;
  	margin: 0;
+ 	font-weight: bold;
  }
  #nav-list{
  	font-size: 15px;
