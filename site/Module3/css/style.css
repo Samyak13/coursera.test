@@ -1,0 +1,44 @@
+body{
+	font-size: 10px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #F5F5F5;
+}
+#header-nav{
+	background-color: #9370DB;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand{
+	padding: 0 0 0 -50px;
+	text-transform: uppercase;   
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+h1{
+    margin: 0;
+    color: #F08080;
+    font-weight: bold;
+    font-size: 30px;
+ }
+ h2{
+ 	text-align: center;
+ 	color: #B22222;
+ 	height: 50px;
+ 	margin: 0;
+ }
+ #nav-list{
+ 	font-size: 15px;
+ 	color: #B22222;
+ 	margin-top: 10px;
+ 	text-align: center;
+ }
+h4{
+	color: #FFFAF0;
+	font-weight: bold;
+}
+#details{
+	text-align: center;
+	background-color: #0000CD;
+	color: #FFFAF0; 
+}
